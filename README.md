@@ -6,6 +6,9 @@
 
 Welcome to my GitHub profile! I'm a Data Scientist, passionate learner with a love for exploring data, protecting computer systems and networks from cyber threats. I seek to learn about various security measures, tools, and practices to defend against attacks and ensure data safety. I'm always eager to learn and explore new tools.
 
+
+<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/097ff851-1a16-4f94-83e1-7d3e0df2d46a" />
+
 ---
 
 ## 🛠️ **Technologies & Tools**
