@@ -29,4 +29,4 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ## 🎉 **Fun Fact**
 
-``` I love listening to instrumentals and I appreciate deep and rich sounds but I don't know how to play any instrument ```
+``` I love listening to instrumentals and I appreciate rich sounds but I don't know how to play any musical instrument ```
