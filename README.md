@@ -4,7 +4,7 @@
 
 *Machine Learning | Data Scientist | Cyber Defense Enthusiast*
 
-Welcome to my GitHub profile! I'm a Data Scientist, passionate learner with a love for exploring data, protecting computer systems and networks from cyber threats.I seek to learn about various security measures, tools, and practices to defend against attacks and ensure data safety. I'm always eager to learn and explore new tools.
+Welcome to my GitHub profile! I'm a Data Scientist, passionate learner with a love for exploring data, protecting computer systems and networks from cyber threats. I seek to learn about various security measures, tools, and practices to defend against attacks and ensure data safety. I'm always eager to learn and explore new tools.
 
 ---
 
