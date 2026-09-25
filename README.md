@@ -2,9 +2,15 @@
 
 🌍 **Based in England, UK** | **Passionate about solving problems.**
 
-*SOC Analyst | Threat Detection & Incident Response | Threat Intelligence | SIEM (Wazuh, Splunk, Sentinel) | Malware & Phishing Analysis | MITRE ATT&CK | Detection Engineering |compTIA SECURITY+[inview]*
+*SOC Analyst | Threat Detection & Incident Response | Threat Intelligence | SIEM (Wazuh, Splunk, Sentinel) | Malware & Phishing Analysis | MITRE ATT&CK | Detection Engineering | CompTIA SECURITY+ [inview]*
 
-Welcome to my GitHub profile! I'm a SOC Analyst, passionate learner with interest in protecting data, endpoint systems/ critical assets and networks from cyber threats. I seek to learn more about various security measures, tools, and practices to defend, mitigate attacks and ensure data security. I'm always eager to learn.
+## About Me
+
+SOC Analyst focused on threat detection and incident response, turning raw telemetry into detections that catch real attacks.
+
+I work across SIEM platforms including Wazuh, Splunk, and Microsoft Sentinel, building and tuning detection logic, hunting through logs, and mapping coverage to MITRE ATT&CK. My hands-on experience spans malware and phishing analysis, threat intelligence, and detection engineering.
+
+Currently deepening my expertise in cloud SIEM and detection engineering while pursuing CompTIA Security+. My pinned repositories showcase practical labs and write-ups.
 
 
 
