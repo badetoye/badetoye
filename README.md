@@ -1,13 +1,17 @@
 # Hi there, I'm Bolaji Adetoye! 👋
 
-🌍 **Based in England, UK** | 💡 **Passionate about solving problems, analyzing and interpreting complex data to create actionable insights to help organizations make informed decisions.**
+🌍 **Based in England, UK** | **Passionate about solving problems.**
 
-*Machine Learning || Data Scientist || Cyber Defender | Incident Responder*
+*SOC Analyst | Threat Detection & Incident Response | Threat Intelligence | SIEM (Wazuh, Splunk, Sentinel) | Malware & Phishing Analysis | MITRE ATT&CK | Detection Engineering |compTIA SECURITY+[inview]*
 
-Welcome to my GitHub profile! I'm a Data Scientist, passionate learner with love for exploring data, protecting endpoint systems and networks from cyber threats. I seek to learn more about various security measures, tools, and practices to defend, mitigate attacks and ensure data security. I'm always eager to learn.
+Welcome to my GitHub profile! I'm a SOC Analyst, passionate learner with interest in protecting data, endpoint systems/ critical assets and networks from cyber threats. I seek to learn more about various security measures, tools, and practices to defend, mitigate attacks and ensure data security. I'm always eager to learn.
 
 
-<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/097ff851-1a16-4f94-83e1-7d3e0df2d46a" />
+<img width="1584" height="396" alt="Green   Black Modern Minimalist SOC Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/097ff851-1a16-4f94-83e1-7d3e0df2d46a" />
+
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/0d17eeca-d260-4e8d-b070-5c1ccbf1aeb2" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d17eeca-d260-4e8d-b070-5c1ccbf1aeb2" />
 
 ---
 
