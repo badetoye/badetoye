@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a SOC Analyst, passionate learner with interes
 
 <img width="1584" height="396" alt="Green   Black Modern Minimalist SOC Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/097ff851-1a16-4f94-83e1-7d3e0df2d46a" />
 
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/0d17eeca-d260-4e8d-b070-5c1ccbf1aeb2" />
+<img width="1920" height="700" alt="Image" src="https://github.com/user-attachments/assets/0d17eeca-d260-4e8d-b070-5c1ccbf1aeb2" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d17eeca-d260-4e8d-b070-5c1ccbf1aeb2" />
 
