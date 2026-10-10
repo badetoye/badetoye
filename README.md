@@ -2,15 +2,13 @@
 
 🌍 **Based in England, UK** | **Passionate about solving problems.**
 
-*SOC Analyst | Threat Detection & Incident Response | Threat Intelligence | SIEM (Wazuh, Splunk, Sentinel) | Malware & Phishing Analysis | MITRE ATT&CK | Detection Engineering*
+**Security Monitoring | Incident Response | Vulnerability Assessment | Penetration Testing | Network Security | Endpoint Security | Identity and Access Management | Risk Assessment | Compliance and Security Auditing | Log Analysis | Security Awareness Training | Technical Documentation**
 
 ## About Me
 
-Cybersecurity Analyst focused on threat detection and incident response, turning raw telemetry into detections that catch real attacks.
+Cybersecurity analyst with more than 10 years of IT support and security administration experience. I run network and application security assessments, monitor and respond to threats in Splunk, Wazuh, and Microsoft Sentinel, and implement controls that meet ISO 27001 and NIST requirements. Across a 120-endpoint environment, I shortened incident response by tuning alert rules and standardizing triage. My support background gives me practical depth in endpoint security, identity and access management, network access control, and secure configuration. I turn technical findings into specific fixes, keep compliance controls audit-ready, and explain risk in terms users and leadership can act on.
 
-I work across SIEM platforms including Wazuh, Splunk, and Microsoft Sentinel, building and tuning detection logic, hunting through logs, and mapping coverage to MITRE ATT&CK. My hands-on experience spans malware and phishing analysis, threat intelligence, and detection engineering.
-
-Currently deepening my expertise in cloud SIEM and detection engineering while pursuing CompTIA Security+. My pinned repositories showcase practical labs and write-ups.
+Currently deepening my expertise in cloud SIEM and detection engineering while pursuing CompTIA Security+ certification. My pinned repositories showcase practical labs and write-ups.
 
 
 
