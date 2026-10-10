@@ -2,7 +2,7 @@
 
 🌍 **Based in England, UK** | **Passionate about solving problems.**
 
-*SOC Analyst | Threat Detection & Incident Response | Threat Intelligence | SIEM (Wazuh, Splunk, Sentinel) | Malware & Phishing Analysis | MITRE ATT&CK | Detection Engineering | CompTIA SECURITY+ [inview]*
+*SOC Analyst | Threat Detection & Incident Response | Threat Intelligence | SIEM (Wazuh, Splunk, Sentinel) | Malware & Phishing Analysis | MITRE ATT&CK | Detection Engineering*
 
 ## About Me
 
