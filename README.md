@@ -6,9 +6,9 @@
 
 ## About Me
 
-Cybersecurity analyst with more than 10 years of IT support and security administration experience. I run network and application security assessments, monitor and respond to threats in Splunk, Wazuh, and Microsoft Sentinel, and implement controls that meet ISO 27001 and NIST requirements. Across a 120-endpoint environment, I shortened incident response by tuning alert rules and standardizing triage. My support background gives me practical depth in endpoint security, identity and access management, network access control, and secure configuration. I turn technical findings into specific fixes, keep compliance controls audit-ready, and explain risk in terms users and leadership can act on.
+Cybersecurity analyst with more than 10 years of IT support and security administration experience. I run network and application security assessments, monitor and respond to threats in Splunk, Wazuh, and Microsoft Sentinel, and implement controls that meet ISO 27001 and NIST requirements. I shortened incident response by tuning alert rules and standardizing triage. My support background gives me practical depth in endpoint security, identity and access management, network access control, and secure configuration. I turn technical findings into specific fixes, keep compliance controls audit-ready, and explain risk in terms users and leadership can act on.
 
-Currently deepening my expertise in cloud SIEM and detection engineering while pursuing CompTIA Security+ certification. My pinned repositories showcase practical labs and write-ups.
+I am currently deepening my expertise in cloud SIEM and detection engineering while pursuing CompTIA Security+ certification. My pinned repositories showcase practical labs and write-ups.
 
 
 
