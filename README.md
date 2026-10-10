@@ -1,4 +1,4 @@
-# Hi there, I'm Bolaji Adetoye! 👋
+# Hi there 👋, I'm Bolaji!
 
 🌍 **Based in England, UK** | **Passionate about solving problems.**
 
