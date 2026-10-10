@@ -6,7 +6,7 @@
 
 ## About Me
 
-SOC Analyst focused on threat detection and incident response, turning raw telemetry into detections that catch real attacks.
+Cybersecurity Analyst focused on threat detection and incident response, turning raw telemetry into detections that catch real attacks.
 
 I work across SIEM platforms including Wazuh, Splunk, and Microsoft Sentinel, building and tuning detection logic, hunting through logs, and mapping coverage to MITRE ATT&CK. My hands-on experience spans malware and phishing analysis, threat intelligence, and detection engineering.
 
@@ -14,19 +14,23 @@ Currently deepening my expertise in cloud SIEM and detection engineering while p
 
 
 
-<img width="1920" height="800" alt="Image" src="https://github.com/user-attachments/assets/0d17eeca-d260-4e8d-b070-5c1ccbf1aeb2" />
-
+<img width="1920" height="800" alt="Image" src="https://github.com/user-attachments/assets/7c361731-03ed-490a-9137-706ecd90f3bd" />
 
 ---
 
 ## 🛠️ **Technologies & Tools**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,anaconda,postgres,tensorflow,powershell,py,kubernetes,docker,aws,azure,gcp,linux,kali,vscode" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,git,bash,anaconda,postgres,powershell,py,aws,azure,gcp,linux,kali,vscode" />
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logoColor=white" alt="Microsoft Sentinel" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+</p>
 
 
 ## 🌟 **Let's Connect!**
